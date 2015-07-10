@@ -14,8 +14,7 @@ Na wyjściu należy wypisać długość najdłuższego zjazdu.
 # Przykład
 
 Wejście:
-6 0
-2 5 1 1 1
+6 02 5 1 1 1
 2 5 1 2 1
 2 5 1 3 1
 2 5 1 4 1
